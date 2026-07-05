@@ -1,0 +1,180 @@
+{
+  "users": [
+    {
+      "username": "https://api.dicebear.com/10.x/lorelei/svg?seed=user-8f3a2c/girl",
+      "name": "mithra",
+      "email": "mithra33@gmail.com",
+      "phone": "837-3408-473",
+      "website": "http://react-website.com",
+      "address": {
+        "street": "North street",
+        "city": "chennai",
+        "zipcode": "576000"
+      },
+      "company": "ExcelR Solutions",
+      "id": "t-koq09fWIc"
+    },
+    {
+      "name": "anushrii",
+      "phone": "673-283-2839",
+      "email": "anu2345@gamil.com",
+      "website": "http://react.website.com",
+      "id": "qK1eCrWvBYE"
+    },
+    {
+      "username": "https://api.dicebear.com/10.x/lorelei/svg?seed=user-8f3a2c/ang",
+      "name": "kayal",
+      "email": "kayal3@gmail.com",
+      "phone": "7773-408-473",
+      "website": "http://react-website.com",
+      "address": {
+        "street": "BTM Layout",
+        "city": "Bangalore",
+        "zipcode": "576400"
+      },
+      "company": "Qspiders",
+      "id": "fRxxVerHiAs"
+    },
+    {
+      "username": "https://api.dicebear.com/10.x/lorelei/svg?seed=user-8f3a2c/angryboy",
+      "name": "pranesh",
+      "email": "pran@gmail.com",
+      "phone": "977-3408-453",
+      "website": "http://react-website.com",
+      "address": {
+        "street": "Anna Naagar",
+        "city": "chennai",
+        "zipcode": "576000"
+      },
+      "company": "Besant technologies",
+      "id": "3MTQRpjJ-Rs"
+    },
+    {
+      "username": "https://api.dicebear.com/10.x/lorelei/svg?seed=user-8f3a2c/boy",
+      "name": "sankavi",
+      "email": "sankavi22@gmail.com",
+      "phone": "837-3408-473",
+      "website": "http://react-website.com",
+      "address": {
+        "street": "joshep street",
+        "city": "White field",
+        "zipcode": "576085"
+      },
+      "company": "Infosys",
+      "id": "Ik2HrIbh4KE"
+    },
+    {
+      "username": "https://api.dicebear.com/10.x/lorelei/svg?seed=user-8f3a2c/pran",
+      "name": "vinisha",
+      "email": "vini3@gmail.com",
+      "phone": "737-3408-473",
+      "website": "http://react-website.com",
+      "address": {
+        "street": "North street",
+        "city": "Trichy",
+        "zipcode": "576065"
+      },
+      "company": "I Life technologies",
+      "id": "U3M0GrDGKt4"
+    },
+    {
+      "username": "https://api.dicebear.com/10.x/lorelei/svg?seed=user-8f3a2c/sadboy",
+      "name": "vijay",
+      "email": "vijay32@gmail.com",
+      "phone": "817-3368-473",
+      "website": "http://react-website.com",
+      "address": {
+        "street": "velachery",
+        "city": "chennai",
+        "zipcode": "576011"
+      },
+      "company": "Wipro",
+      "id": "YaAw5BlHqLo"
+    },
+    {
+      "username": "https://api.dicebear.com/10.x/lorelei/svg?seed=user-8f3a2c/viji",
+      "name": "Abhii",
+      "email": "Abhii3@gmail.com",
+      "phone": "667-3408-473",
+      "website": "http://react-website.com",
+      "address": {
+        "street": "North street",
+        "city": "chennai",
+        "zipcode": "576089"
+      },
+      "company": "Cognizant",
+      "id": "T2EL8dJKp6s"
+    },
+    {
+      "username": "https://api.dicebear.com/10.x/lorelei/svg?seed=user-8f3a2c/boyy",
+      "name": "siva",
+      "email": "siva993@gmail.com",
+      "phone": "997-3408-473",
+      "website": "http://react-website.com",
+      "address": {
+        "street": "new extension",
+        "city": "Silk Board",
+        "zipcode": "576000"
+      },
+      "company": "Kod Nest",
+      "id": "kx1iwpgLSC8"
+    },
+    {
+      "username": "https://api.dicebear.com/10.x/lorelei/svg?seed=user-8f3a2c/jdhssn",
+      "name": "keerthi",
+      "email": "keerthi@gmail.com",
+      "phone": "999-3408-473",
+      "website": "http://react-website.com",
+      "address": {
+        "street": "Main road",
+        "city": "coimbatore",
+        "zipcode": "671011"
+      },
+      "company": "Harvey medical solutions",
+      "id": "oQB9NVxS208"
+    },
+    {
+      "name": "bharath",
+      "email": "bhara@1315@gamil.com",
+      "phone": "738-4857-283",
+      "website": "https://react.website.com",
+      "id": "ixVxNHzrg3Y"
+    },
+    {
+      "name": "parvesh",
+      "email": "par1235@gmail.com",
+      "phone": "888-3836-485",
+      "website": "https://react.website.com",
+      "id": "ZoW6ELAyv6M"
+    },
+    {
+      "name": "krish",
+      "email": "krish0602@gmail.com",
+      "phone": "8220-454-468",
+      "website": "https://react.website.com",
+      "id": "NrCK450y-eE"
+    },
+    {
+      "name": "ajith",
+      "email": "aji6666@gmail.com",
+      "phone": "787-283-3943",
+      "website": "https://react.website.com",
+      "id": "WRa9mmbkS3w"
+    },
+    {
+      "name": "pass",
+      "email": "pass1234@gmail.com",
+      "phone": "666-384-8372",
+      "website": "https://react.website.com",
+      "id": "mzNOacs80j8"
+    },
+    {
+      "name": "valar",
+      "email": "valar19191@gmail.com",
+      "phone": "994-3217-234",
+      "website": "https://react.website.com",
+      "id": "Ammklkdc3yY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
